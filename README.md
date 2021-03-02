@@ -1,2 +1,2 @@
 # dwnet
-Dual-branch and Wavelet-based Neural Network for Demoireing
+Wavelet-based and Dual-branch Neural Network for Demoireing
