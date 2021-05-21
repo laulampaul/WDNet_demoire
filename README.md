@@ -11,7 +11,7 @@ When smartphone cameras are used to take photos of digital screens, usually moir
 ## start training
 1. Download the dataset from [\[TIP2018 Dataset\]](https://drive.google.com/drive/folders/109cAIZ0ffKLt34P7hOMKUO14j3gww2UC?usp=sharing)
 
-2. Donwload the wavelet parameters from [\[wavelet parameters\]](https://github.com/hhb072/WaveletSRNet）
+2. Donwload the wavelet parameters from [\[wavelet parameters\]](https://github.com/hhb072/WaveletSRNet)
 
 3. Put it into /cache/TrainData
 
@@ -19,8 +19,10 @@ When smartphone cameras are used to take photos of digital screens, usually moir
 
 ## Citation
 If you use this code, please cite:
+```
 @InProceedings{liu2020waveletbased,
       title={Wavelet-Based Dual-Branch Network for Image Demoireing}, 
       author={Lin Liu and Jianzhuang Liu and Shanxin Yuan and Gregory Slabaugh and Ales Leonardis and Wengang Zhou and Qi Tian},
       booktitle={ECCV, 2020}
 }
+```
