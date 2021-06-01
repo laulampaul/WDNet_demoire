@@ -319,7 +319,7 @@ for epoch in range(opt.epoch, opt.n_epochs):
             pass;
             
             
-    torch.save(generator.state_dict(),'s3://bucket-8280/liulin/ddwnet_2021/saved_models/%s/lastest.pth'%opt.dataset_name)
+    torch.save(generator.state_dict(),'./saved_models/%s/lastest.pth'%opt.dataset_name)
     
     
 
