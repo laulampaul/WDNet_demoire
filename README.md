@@ -13,7 +13,7 @@ When smartphone cameras are used to take photos of digital screens, usually moir
 ## Quick start
 1. Download the dataset from [\[TIP2018 Dataset\]](https://drive.google.com/drive/folders/109cAIZ0ffKLt34P7hOMKUO14j3gww2UC?usp=sharing)
 
-2. Donwload the wavelet parameters from [\[wavelet parameters\]](https://github.com/hhb072/WaveletSRNet)
+2. Donwload the wavelet parameters from [\[wavelet parameters\]](https://github.com/hhb072/WaveletSRNet) wavelet_weights_c2.pkl.
 
 3. Put it into /cache/TrainData
 
