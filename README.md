@@ -1,5 +1,7 @@
 This is the implementation of the paper Wavelet-based and Dual-branch Neural Network for Demoireing
 
+Add some results of our methods, you can download them from [\[Results Link\]](https://rec.ustc.edu.cn/share/7c8a3660-0554-11ec-a174-0fa977d04109) . password: mzo8
+
 # WDNet
 Wavelet-based and Dual-branch Neural Network for Demoireing ECCV 2020
 
